@@ -4,7 +4,7 @@
 
 ## 多硬件支持
 
-Tengine 支持多种硬件后端对神经网络模型进行加速推理，包含 CPU（ARM、X86、MIPS、RISC-V）、GPU（Mail、NV、AMD、Adreno、PowerVR）、NPU（VSI、NNIE、DLA）。
+Tengine 支持多种硬件后端对神经网络模型进行加速推理，包含 CPU（ARM、X86、MIPS、RISC-V）、GPU（Mali、NV、AMD、Adreno、PowerVR）、NPU（VSI、NNIE、DLA）。
 
 ## 高性能
 
